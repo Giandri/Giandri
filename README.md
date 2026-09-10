@@ -166,5 +166,4 @@
 <br>
 </details> 
 <hr>
-<p>Credits: <a href="https://github.com/1999AZZAR">1999AZZAR</a>
-Last Edited on: 23/09/2022</p> 
+
