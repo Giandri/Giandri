@@ -7,6 +7,7 @@
 <br>Let's connect!.</br>
 <br>Warmly G.</br> 
 </div>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Giandri&theme=git-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_height=175" alt="GitHub Streak" /></a>
 <div align="center">
   <a href="https://www.giandri.my.id/">
   <img src="https://raw.githubusercontent.com/Giandri/Giandri/output/github-snake.svg" alt="snake"></a>
