@@ -3,10 +3,9 @@
 </div>
   <div align="center">
 <h1 align="center">Hi, i'm G</h1>
-<h4 align="center">a junior fullstack developer with 1 year of experience, and interest in as graphic designer.
+<h4 align="justify">a junior fullstack developer with 1 year of experience, and interest in as web animation.
 <br>Let's connect!.</br>
-
-Warmly G. 
+<br>Warmly G.</br> 
 </div>
 <div align="center">
   <a href="https://www.giandri.my.id/">
