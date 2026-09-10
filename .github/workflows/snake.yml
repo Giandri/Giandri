@@ -20,7 +20,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
       - run: |
-          cd dist
+          mkdir snake-output
+          cp dist/* snake-output/
+          cd snake-output
           git init
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
