@@ -8,10 +8,10 @@
 </div>
 <hr>
 
-  <summary>☎️ contact me</summary>
+<summary>☎️ contact me</summary>
 <div>
   <samp>
-    <h2 align="center">you can reach me by:</h2>
+    <h2 align="center">Get in Touch:</h2>
     <p align="center">
       <br>
       <a href="https://www.linkedin.com/in/giandriaditio/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="azzar" height="30"></a>
@@ -24,8 +24,7 @@
     </p>
   </samp>
 </div>
-</details>
-<details>
+
 
 
 
