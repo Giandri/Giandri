@@ -3,8 +3,7 @@
 </div>
   <div align="center">
 <h1 align="center">Hi, i'm G</h1>
-<h4 align="justify">a junior fullstack developer with 1 year of experience, and interest in as graphic designer. Most of my work involves building web applications end-to-end, fullstack development, web animation, and growing exposure to AI automation. Known for my attention to detail, critical thinking, and problem-solving mindset. Currently seeking new opportunities in Web Developer or related roles to grow and make an impact through technology.
-
+<h4 align="justify">a junior fullstack developer with 1 year of experience, and interest in as graphic designer.
 Let's connect!.
 
 Warmly G. 
