@@ -7,7 +7,7 @@
 <br>Let's connect!.</br>
 <br>Warmly G.</br> 
 </h4>
-<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Giandri&theme=git-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=100%&card_height=100%" alt="GitHub Streak" /></a>
+<a align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Giandri&theme=git-dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&card_width=495&card_height=195" alt="GitHub Streak" /></a>
 </div>
 <div align="center">
   <a href="https://www.giandri.my.id/">
