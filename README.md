@@ -6,8 +6,6 @@
   <a href="https://www.giandri.my.id/">
   <img src="https://raw.githubusercontent.com/Giandri/Giandri/output/github-snake.svg" alt="snake"></a>
 </div>
-<hr>
-
 <summary>☎️ contact me</summary>
 <div>
   <samp>
