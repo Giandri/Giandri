@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="banner.png" alt="banner" width="100%">
+</div>
   <div align="center">
 <h1 align="center">Hi, i'm G</h1>
 <h4 align="center">a junior fullstack developer an also an graphic designer s, see my <a href="https://github.com/Giandri/Giandri/" target="_blank">resume</a> for more</h4>
