@@ -6,7 +6,6 @@
 <h4 align="justify">a junior fullstack developer with 1 year of experience, and interest in as graphic designer.
   
 Let's connect!.
-
 Warmly G. 
 </div>
 <div align="center">
