@@ -11,7 +11,6 @@
   <a href="https://www.giandri.my.id/">
   <img src="https://raw.githubusercontent.com/Giandri/Giandri/output/github-snake.svg" alt="snake"></a>
 </div>
-
 <div align="center">
   <h2>Tech Stack</h2>
   <a href="https://reactjs.org" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></a>
